@@ -1,2 +1,1 @@
-# CHIP690-335-Milestone-2
-Milestone 02 final project
+This is my final project for the CHIP 690: Introduction to Programming course. I explored a dataset from Kaggle which looks at AirBnB listings in NYC. It stores various categorical and numerical features that can influence the price of these listings. My research question was trying to identify which feature influences the price of AirBnb listings the most. The features I looked at were neighborhood groups, types of rooms (studio, hotel, etc.), service fee, minimum nights required to stay, and number of reviews.

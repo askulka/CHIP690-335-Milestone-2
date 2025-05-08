@@ -1,1 +1,3 @@
 This is my final project for the CHIP 690: Introduction to Programming course. I explored a dataset from Kaggle which looks at AirBnB listings in NYC. It stores various categorical and numerical features that can influence the price of these listings. My research question was trying to identify which feature influences the price of AirBnb listings the most. The features I looked at were neighborhood groups, types of rooms (studio, hotel, etc.), service fee, minimum nights required to stay, and number of reviews.
+
+The file is too large to store in Github. Please either use the file that was emailed to you on 05/07/2025 or please use this link to download the file and name it "Airbnb_Open_Csv". https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
